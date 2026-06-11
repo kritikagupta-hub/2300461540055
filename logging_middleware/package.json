@@ -1,0 +1,9 @@
+{
+  "name": "logging_middleware",
+  "version": "1.0.0",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
